@@ -1,0 +1,7 @@
+steps for convert image to html&css ( for one page )
+---------------------------------
+1 - have image from target web page
+2 - layout html & html files
+3 - adding css = (animation, transition, color, background)
+4 - responsive- (css)
+5 - test
